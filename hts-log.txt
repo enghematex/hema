@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Oct 2022 10:49:35 at https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html* +*https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html -O1 "C:\My Web Sites\cover" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html* +*https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:49:41	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html)
+10:49:41	Error: 	"Forbidden" (403) at link https://moviemaker.minitool.com/moviemaker/ (from https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html)
+10:49:41	Error: 	"Forbidden" (403) at link https://moviemaker.minitool.com/moviemaker/slideshow-music.html (from https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html)
+10:49:41	Error: 	"Forbidden" (403) at link https://moviemaker.minitool.com/moviemaker/sites-like-shutterstock.html (from https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html)
+10:49:41	Error: 	"Forbidden" (403) at link https://moviemaker.minitool.com/moviemaker/video-background.html (from https://moviemaker.minitool.com/moviemaker/facebook-cover-photo-maker.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 15 links scanned, 9 files written (258715 bytes overall) [158065 bytes received at 26344 bytes/sec], 176130 bytes transferred using HTTP compression in 11 files, ratio 36%, 3.7 requests per connection
+(5 errors, 0 warnings, 0 messages)
